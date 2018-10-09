@@ -1,5 +1,5 @@
 import '../styles/index.scss';
 
-// window.addEventListener('keydown', function(e)) {
-//   console.log(e);
-// }
+window.addEventListener ('keyboard', function(e) {
+  console.log(e);
+});
